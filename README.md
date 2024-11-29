@@ -26,16 +26,16 @@ The **Smart Shopping** project simulates a smart shopping cart system using Ardu
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Smart-shopping.git
+   git clone https://github.com/ShashankByalla/Smart-shopping-.git
 
-	2.	Open the smart_cart_simulation.ino file in the Arduino IDE.
-	3.	Connect the hardware components as per the code’s pin configuration:
-	•	LCD: Pins 12, 11, 5, 4, 3, 2
-	•	Button: Pin 7
-	•	LED: Pin 9
-	•	Buzzer: Pin 10
-	4.	Upload the code to the Arduino board.
-	5.	Press the button to simulate item scanning and observe the LCD, LED, and buzzer feedback.
+2. Open the smart_cart_simulation.ino file in the Arduino IDE.
+3. Connect the hardware components as per the code’s pin configuration:
+   • LCD: Pins 12, 11, 5, 4, 3, 2
+   • Button: Pin 7
+   • LED: Pin 9
+   • Buzzer: Pin 10
+4. Upload the code to the Arduino board.
+5. Press the button to simulate item scanning and observe the LCD, LED, and buzzer feedback.
 
 Code Explanation
 
